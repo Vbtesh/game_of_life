@@ -32,7 +32,7 @@ def make2darray(list_name, row, colomn):
         list_name.append([]) 
         for column in range(colomn):
             list_name[row].append(0)
-            # Comment line 8 and uncomment line 10 (command below) to randomize the setup of alive cells
+            # Comment line 34 and uncomment line 36 (command below) to randomize the setup of alive cells
             #list_name[row].append(random.randint(0,1))
 
 ## function that draws the grid in the display
