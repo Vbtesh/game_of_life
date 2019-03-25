@@ -1,4 +1,4 @@
-Victor'Conway's Game of Life
+Vbtesh's Conway's Game of Life
 
 Python version: 3
 
